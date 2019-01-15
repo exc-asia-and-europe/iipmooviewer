@@ -8,7 +8,7 @@
 	<artifactId>iipmooviewer</artifactId>
 	<version>0.0.1</version>
 	<packaging>pom</packaging>
-	<url>http://exist-db.org</url>
+	<url>http://hra.uni-heidelberg.de</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
